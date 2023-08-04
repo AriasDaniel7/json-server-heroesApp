@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "backend": "npx ts-node index.ts"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@types/json-server": "^0.14.4",
     "json-server": "^0.17.3"
   }
 }
